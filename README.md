@@ -1,4 +1,4 @@
-# Ryan Grimley - Cyber Security Graduate
+# Pominlaw - Cyber Security Graduate
 
 ## Employment
 Currently searching For work within the industry.
@@ -7,7 +7,7 @@ Currently searching For work within the industry.
 BSC Computer Security (2023) - Graduated with 2:1
 
 ## Skills
-Python 
+Python  
 C#
 C++
 Linux / Kali Linux

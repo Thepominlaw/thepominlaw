@@ -1,22 +1,18 @@
 # Ryan Grimley - Cyber Security Graduate
 
 ## Employment
-    Currently searching For work within the industry.
+Currently searching For work within the industry.
 
 ## Education 
-    BSC Computer Security (2023) - Graduated with 2:1
+BSC Computer Security (2023) - Graduated with 2:1
 
 ## Skills
-    Python 
-    C#
-    C++
-    Linux / Kali Linux
+Python 
+C#
+C++
+Linux / Kali Linux
     
-
-
 ## Repos
-
-
 
 <!--
 **Thepominlaw/thepominlaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

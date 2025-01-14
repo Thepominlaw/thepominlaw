@@ -4,7 +4,7 @@
 Currently searching For work within the industry.
 
 ## Skills
-Operating Systems - Windows 7 & 10, Windows Server 2019 & Ubuntu, Arch linux and Kali Linux
+Operating Systems - Windows 7 & 10, Windows Server 2019 & Ubuntu, Arch linux and Kali Linux\
 Programming / Scripting - Python, C#, Lua, MySQL, HTML5, CSS
 Network Tools - Nmap, Zenmap
 Web Application Testing - Burpsuite, SqlMap
